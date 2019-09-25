@@ -42,6 +42,7 @@ namespace FavouriteColor
                 file.WriteLine($"{someone.FirstName} {someone.LastName} Favourite color: {someone.FavouriteColor}");
 
             }
+            string path = Directory.GetParent(System.Reflection.Assembly.GetExecutingAssembly().Location).FullName;
         }
     }
 }

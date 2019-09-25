@@ -70,7 +70,7 @@ namespace ConsoleSecond
 
             }
 
-            Console.WriteLine("Anything wlse? Y/N");
+            Console.WriteLine("Anything else? Y/N");
 
             Console.ReadKey();
         }
