@@ -14,6 +14,8 @@ namespace ConsoleSecond
 
         public ShoppingCart ShoppingCart { get; set; }
 
+        public Color FavouriteColor { get;  set; }
+
         public Person(string firstName,string lastName)
         {
             FirstName = firstName;
@@ -25,5 +27,18 @@ namespace ConsoleSecond
             return FirstName +" "+ LastName;
 
         }
+    }
+
+    public enum Color
+    {
+        Unknown,
+        Red,
+        Orange,
+        Yellow,
+        Green,
+        Blue,
+        Violet,
+        White,
+        Black
     }
 }
