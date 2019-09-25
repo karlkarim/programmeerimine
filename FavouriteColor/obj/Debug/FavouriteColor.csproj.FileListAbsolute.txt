@@ -1,0 +1,12 @@
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\bin\Debug\FavouriteColor.exe.config
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\bin\Debug\FavouriteColor.exe
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\bin\Debug\FavouriteColor.pdb
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\bin\Debug\ConsoleSecond.exe
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\bin\Debug\ConsoleSecond.pdb
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\bin\Debug\ConsoleSecond.exe.config
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\obj\Debug\FavouriteColor.csprojAssemblyReference.cache
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\obj\Debug\FavouriteColor.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\obj\Debug\FavouriteColor.csproj.CopyComplete
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\obj\Debug\FavouriteColor.exe
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\obj\Debug\FavouriteColor.pdb
+C:\Users\opilane\Source\Repos\SecondConsole\FavouriteColor\bin\Debug\TextFile1.txt
